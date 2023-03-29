@@ -13,7 +13,7 @@ Analista de Desenvolvimento Júnior na G4F, produzo soluções de automação de
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaumsilveira&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
